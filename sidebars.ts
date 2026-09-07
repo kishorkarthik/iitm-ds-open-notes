@@ -46,6 +46,11 @@ const sidebars: SidebarsConfig = {
               id: 'Foundation/Mathematics 1/overview',
               label: 'Overview',
             },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics 1/week_01',
+              label: 'Week 01',
+            },
           ],
         },
         {
