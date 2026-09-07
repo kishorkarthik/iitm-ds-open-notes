@@ -106,6 +106,11 @@ const sidebars: SidebarsConfig = {
               id: 'Foundation/Mathematics For Data Science 1/week_12',
               label: 'Week 12',
             },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/Appendix 1 - Formula Sheet',
+              label: 'Appendix 1',
+            },
           ],
         },
         {
