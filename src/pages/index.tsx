@@ -61,11 +61,11 @@ export default function Home(): ReactNode {
 
             <Link
               className={styles.course}
-              to="/docs/Foundation/Mathematics%201/overview"
+              to="/docs/Foundation/Mathematics%20For%20Data%20Science%201/overview"
             >
               <div>
-                <h3>Mathematics 1</h3>
-                <p>Structured notes for Mathematics 1.</p>
+                <h3>Mathematics For Data Science 1</h3>
+                <p>Structured notes for Mathematics For Data Science 1.</p>
               </div>
 
               <span className={styles.arrow}>→</span>
