@@ -51,6 +51,26 @@ const sidebars: SidebarsConfig = {
               id: 'Foundation/Mathematics 1/week_01',
               label: 'Week 01',
             },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics 1/week_02',
+              label: 'Week 02',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics 1/week_03',
+              label: 'Week 03',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics 1/week_04',
+              label: 'Week 04',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics 1/week_05',
+              label: 'Week 05',
+            },
           ],
         },
         {

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: Week 1 — Set Theory, Relations and Functions
 ---
 
