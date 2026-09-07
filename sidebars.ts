@@ -20,6 +20,21 @@ const sidebars: SidebarsConfig = {
               id: 'Foundation/English 2/overview',
               label: 'Overview',
             },
+            {
+              type: 'doc',
+              id: 'Foundation/English 2/week_01',
+              label: 'Week 01',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/English 2/week_02',
+              label: 'Week 02',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/English 2/week_03',
+              label: 'Week 03',
+            },
           ],
         },
         {
