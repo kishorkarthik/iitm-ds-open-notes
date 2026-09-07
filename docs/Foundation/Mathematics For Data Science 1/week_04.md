@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 4
+sidebar_position: 5
 title: Week 4 — Algebra and Graphs of Polynomials
 -------------------------------------------------
 

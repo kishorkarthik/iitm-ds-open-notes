@@ -1,11 +1,11 @@
 ---
 
-sidebar_position: 5
+sidebar_position: 6
 title: Week 5 — Functions
 -------------------------
 
 # Week 5 — Functions
-
+---
 ## 1. Function
 
 A function $f$ from a set $A$ to a set $B$ assigns **exactly one** element of $B$ to every element of $A$.

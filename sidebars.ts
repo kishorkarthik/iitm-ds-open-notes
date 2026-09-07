@@ -43,33 +43,68 @@ const sidebars: SidebarsConfig = {
           items: [
             {
               type: 'doc',
-              id: 'Foundation/Mathematics 1/overview',
+              id: 'Foundation/Mathematics For Data Science 1/overview',
               label: 'Overview',
             },
             {
               type: 'doc',
-              id: 'Foundation/Mathematics 1/week_01',
+              id: 'Foundation/Mathematics For Data Science 1/week_01',
               label: 'Week 01',
             },
             {
               type: 'doc',
-              id: 'Foundation/Mathematics 1/week_02',
+              id: 'Foundation/Mathematics For Data Science 1/week_02',
               label: 'Week 02',
             },
             {
               type: 'doc',
-              id: 'Foundation/Mathematics 1/week_03',
+              id: 'Foundation/Mathematics For Data Science 1/week_03',
               label: 'Week 03',
             },
             {
               type: 'doc',
-              id: 'Foundation/Mathematics 1/week_04',
+              id: 'Foundation/Mathematics For Data Science 1/week_04',
               label: 'Week 04',
             },
             {
               type: 'doc',
-              id: 'Foundation/Mathematics 1/week_05',
+              id: 'Foundation/Mathematics For Data Science 1/week_05',
               label: 'Week 05',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/week_06',
+              label: 'Week 06',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/week_07',
+              label: 'Week 07',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/week_08',
+              label: 'Week 08',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/week_09',
+              label: 'Week 09',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/week_10',
+              label: 'Week 10',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/week_11',
+              label: 'Week 11',
+            },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/week_12',
+              label: 'Week 12',
             },
           ],
         },
