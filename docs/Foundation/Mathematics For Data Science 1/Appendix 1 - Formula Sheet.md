@@ -1,7 +1,11 @@
 ---
 
 sidebar_position: 14
+<<<<<<< HEAD
 title: Appendix 1 — Mathematics for Data Science I -  Formula Sheet
+=======
+title: Appendix 1 — Mathematics for Data Science I - Formula Sheet
+>>>>>>> 7de833ca0a9f4c07b7fb78227cef05257973c0aa
 ---
 git
 
@@ -9,7 +13,7 @@ git
 | --: | ------------------------------ | ------------------------------------------------------------------------------ |
 |   1 | Natural numbers                | $\mathbb{N}={0,1,2,\ldots}$                                                    |
 |   2 | Integers                       | $\mathbb{Z}={\ldots,-2,-1,0,1,2,\ldots}$                                       |
-|   3 | Rational numbers               |$\mathbb{Q}=\left\{\frac{p}{q}:p,q\in\mathbb{Z},\ q\neq0\right\}$              |
+|   3 | Rational numbers               | $\mathbb{Q}=\left\{\frac{p}{q}:p,q\in\mathbb{Z},\ q\neq0\right\}$              |
 |   4 | Real numbers                   | $\mathbb{R}=\mathbb{Q}\cup{\text{irrational numbers}}$                         |
 |   5 | Union                          | $A\cup B$                                                                      |
 |   6 | Intersection                   | $A\cap B$                                                                      |
@@ -22,7 +26,7 @@ git
 |  13 | Function                       | $f:A\to B$                                                                     |
 |  14 | Composition                    | $(f\circ g)(x)=f(g(x))$                                                        |
 |  15 | Injective                      | $f(x_1)=f(x_2)\Rightarrow x_1=x_2$                                             |
-|  16 | Surjective                     | $\operatorname{Range}(f)=B$                                                    |
+|  16 | Surjective                     | $\text{Range}(f)=B$                                                            |
 |  17 | Bijective                      | Injective and surjective                                                       |
 |  18 | Inverse                        | $f^{-1}(f(x))=x$                                                               |
 |  19 | Distance                       | $d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$                                             |
