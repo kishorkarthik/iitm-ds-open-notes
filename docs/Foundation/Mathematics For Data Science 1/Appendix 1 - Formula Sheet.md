@@ -1,9 +1,9 @@
 ---
 
 sidebar_position: 14
-title: Appendix 1 — Mathematics for Data Science I: Formula Sheet
+title: Appendix 1 — Mathematics for Data Science I -  Formula Sheet
 ---
-
+git
 
 | No. | Topic                          | Formula / Key Result                                                           |
 | --: | ------------------------------ | ------------------------------------------------------------------------------ |
