@@ -75,6 +75,11 @@ const sidebars: SidebarsConfig = {
               id: 'Foundation/English 2/week_11',
               label: 'Week 11',
             },
+            {
+              type: 'doc',
+              id: 'Foundation/English 2/week_12',
+              label: 'Week 12',
+            },
           ],
         },
         {
