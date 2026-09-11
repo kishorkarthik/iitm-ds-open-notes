@@ -204,6 +204,11 @@ const sidebars: SidebarsConfig = {
             },
             {
               type: 'doc',
+              id: 'Foundation/Programming in Python/week_08',
+              label: 'Week 08',
+            },
+            {
+              type: 'doc',
               id: 'Foundation/Programming in Python/Appendix 1 - Python Built-in Functions',
               label: 'Appendix 1',
             },
