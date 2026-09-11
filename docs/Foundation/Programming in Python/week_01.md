@@ -1,6 +1,6 @@
 # Week 01
 
-## L1: Variables and Input in Python
+## Variables and Input in Python
 
 ### Variables and Assignment
 
@@ -127,7 +127,7 @@ print(a + b)  # 30
 
 ---
 
-## L2: Variables and Literals
+## Variables and Literals
 
 ### Literals
 
@@ -206,7 +206,7 @@ area = 3.14 * radius * radius
 
 ---
 
-## L3: Data Types and Type Casting
+## Data Types and Type Casting
 
 ### Basic Data Types
 
@@ -366,7 +366,7 @@ numbers[2]  # 30
 
 
 ---
-## L4: Strings and Expressions
+## Strings and Expressions
 
 ### Strings
 
@@ -502,7 +502,7 @@ Result:
 
 ---
 
-## L5: Operators
+## Operators
 
 ### Arithmetic Operators
 
