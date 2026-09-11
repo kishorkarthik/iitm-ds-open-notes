@@ -80,6 +80,11 @@ const sidebars: SidebarsConfig = {
               id: 'Foundation/English 2/week_12',
               label: 'Week 12',
             },
+            {
+              type: 'doc',
+              id: 'Foundation/English 2/Appendix 1 - Interview Skills',
+              label: 'Appendix 1',
+            },
           ],
         },
         {
