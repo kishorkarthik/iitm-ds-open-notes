@@ -161,6 +161,11 @@ const sidebars: SidebarsConfig = {
               id: 'Foundation/Mathematics For Data Science 1/Appendix 1 - Formula Sheet',
               label: 'Appendix 1',
             },
+            {
+              type: 'doc',
+              id: 'Foundation/Mathematics For Data Science 1/Appendix 2 - Tutorials',
+              label: 'Appendix 2',
+            },
           ],
         },
         {
